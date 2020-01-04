@@ -26,6 +26,9 @@ pip install --index-url https://pypi.tuna.tsinghua.edu.cn/simple/ package
 redshift-gtk -l 39.92:116.46 -t 4000:3500
 
 
+
+
+
 #include <iostream>
 
 using namespace std;
