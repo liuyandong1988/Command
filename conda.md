@@ -20,3 +20,7 @@
    使用命令 ```conda remove --name your_env_name package_name```  即可
 
 
+## packaget manage
+pip install --index-url https://pypi.tuna.tsinghua.edu.cn/simple/ package
+conda list 查看安装了哪些包
+
