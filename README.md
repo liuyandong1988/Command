@@ -1,2 +1,2 @@
-# commamd
+# command
 some useful command
