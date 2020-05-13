@@ -73,6 +73,7 @@ snap install GitHubDesktop-linux-2.0.4-linux1.snap --classic --dangerous
 官网下载 .deb 
 sudo dpkg -i ×××.deb安装 
 并安装相关配置
+### https://gitee.com/wszqkzqk/deepin-wine-for-ubuntu 安装deepin容器下载常用工具 
 
 
 ## 8.安装anaconda配置pycharm IDE
