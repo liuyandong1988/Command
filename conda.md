@@ -2,6 +2,11 @@
 2. conda env list  或  conda info -e  查看当前存在哪些虚拟环境
 3. conda update conda  检查更新当前conda
 4. conda --version  查询conda版本
+5. 更新所有库 conda update --all
+6. anaconda换源： 制定清华的源：
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+有资源显示源地址：
+conda config --set show_channel_urls yes
 
 
 
